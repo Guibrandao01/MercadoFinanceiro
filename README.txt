@@ -18,4 +18,11 @@ Neste projeto foram usados as bibliotecas:
 
 
 
+-------------ATENCAO---------------
+
+Para o modelo ser executado coloque os dados que ja estão manipulados dentro de uma única pasta e execute o arquivo treinamento.py.
+
+
+
+
 
